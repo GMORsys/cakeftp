@@ -13,6 +13,12 @@
             "homepage": "http://dontkry.com"
         }
     ],
+    "repository": [
+        {
+            "type": "vcs",
+            "url": "git://github.com/phpseclib/phpseclib.git"
+        }
+    ],
     "require": {
         "composer/installers": "*",
         "phpseclib/phpseclib": "*"
