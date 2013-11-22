@@ -1,5 +1,5 @@
 {
-    "name": "shama/ftp",
+    "name": "gmorsys/ftp",
     "type": "cakephp-plugin",
     "version": "0.2.0",
     "description": "FTP/SFTP Plugin for CakePHP",
